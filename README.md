@@ -1,6 +1,7 @@
 # Terminal
 Simulacion de Terminal Ubuntu en python con comandos originales
 Lista de Comandos:
+    
     1. help - Enseña una lista de los comandos disponibles
     
     2. echo [text] > [filename] - Para añadir una nueva línea con contenido a un archivo 
