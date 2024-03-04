@@ -46,4 +46,5 @@ Controles de Hangman:
 
 *************IMPORTANTE*************
     
-    Es necesario descargar el archivo "pong.py" para poder abrir el juego de PONG, tambien es necesario tener "pong.py" en el mismo folder que el terminal.
+    Es necesario descargar el archivo "pong.py" para poder abrir el juego de PONG, 
+    tambien es necesario tener "pong.py" en el mismo folder que el terminal.
