@@ -48,7 +48,8 @@ Controles de Hangman:
     
     Es necesario descargar el archivo "pong.py" para poder abrir el juego de PONG, 
     tambien es necesario tener "pong.py" en el mismo folder que el terminal.
-
+    Launcher.sh es codigo en bash.
+    
 ***********DISCLAIMER***********
 
 El codigo incluye codigo creado por chatGPT.
